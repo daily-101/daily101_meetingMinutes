@@ -20,10 +20,10 @@
   1. [회의#1_0915/화 - 첫회의](https://github.com/melody-Bean/melody-Bean-meetingMinutes/blob/master/%ED%9A%8C%EC%9D%98%EB%A1%9D1_0915~0928_(%EA%B8%B0%ED%9A%8D%20%EB%B0%8F%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1)/%ED%9A%8C%EC%9D%98%231_0915%ED%99%94.md)
   2. [회의#2_0921/월 - 아이디어회의](https://github.com/melody-Bean/melody-Bean-meetingMinutes/blob/master/%ED%9A%8C%EC%9D%98%EB%A1%9D1_0915~0928_(%EA%B8%B0%ED%9A%8D%20%EB%B0%8F%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1)/%ED%9A%8C%EC%9D%98%232.melodyBean_0921%EC%9B%94.md)
   3. [회의#3_0924/목 - 아이디어 피드백](https://github.com/melody-Bean/melody-Bean-meetingMinutes/blob/master/%ED%9A%8C%EC%9D%98%EB%A1%9D1_0915~0928_(%EA%B8%B0%ED%9A%8D%20%EB%B0%8F%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1)/%ED%9A%8C%EC%9D%98%233.melodyBean_0924%EB%AA%A9.md)   
-  4. [회의#4_0928/월 - 랭킹서비스 시장조사](https://github.com/melody-Bean/melody-Bean-meetingMinutes/blob/master/%ED%9A%8C%EC%9D%98%EB%A1%9D1_0915~0928_(%EA%B8%B0%ED%9A%8D%20%EB%B0%8F%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1)/%ED%9A%8C%EC%9D%98%234.melodyBean_0928%EC%9B%94.md)
-  5. [회의#5_1002/금 - Front제작, 기획발표 준비]()
-  6. [회의#6_1006/화 - 기획발표준비]()
-  7. [회의#7_1009/금 - 기획발표 피드백 회의]()
+  4. [회의#4_0928/월 - 랭킹서비스 시장조사](https://github.com/melody-Bean/melody-Bean-meetingMinutes/blob/master/%ED%9A%8C%EC%9D%98%EB%A1%9D1_0915~1009_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%8B%9C%EC%A6%8C1-%ED%8C%80'%EB%A9%9C%EB%A1%9C%EB%94%94%EB%B9%88'/%ED%9A%8C%EC%9D%98%234.melodyBean_0928%EC%9B%94.md)
+  5. [회의#5_1002/금 - Front제작, 기획발표 준비](https://github.com/melody-Bean/melody-Bean-meetingMinutes/blob/master/%ED%9A%8C%EC%9D%98%EB%A1%9D1_0915~1009_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%8B%9C%EC%A6%8C1-%ED%8C%80'%EB%A9%9C%EB%A1%9C%EB%94%94%EB%B9%88'/%ED%9A%8C%EC%9D%98%235.melodyBean_1002%EA%B8%88.md)
+  6. [회의#6_1006/화 - 기획발표준비](https://github.com/melody-Bean/melody-Bean-meetingMinutes/blob/master/%ED%9A%8C%EC%9D%98%EB%A1%9D1_0915~1009_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%8B%9C%EC%A6%8C1-%ED%8C%80'%EB%A9%9C%EB%A1%9C%EB%94%94%EB%B9%88'/%ED%9A%8C%EC%9D%98%236.melodyBean_1006%ED%99%94.md)
+  7. [회의#7_1009/금 - 기획발표 피드백 회의](https://github.com/melody-Bean/melody-Bean-meetingMinutes/blob/master/%ED%9A%8C%EC%9D%98%EB%A1%9D1_0915~1009_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%8B%9C%EC%A6%8C1-%ED%8C%80'%EB%A9%9C%EB%A1%9C%EB%94%94%EB%B9%88'/%ED%9A%8C%EC%9D%98%237.melodyBean_1009%EA%B8%88.md)
 
 
 
