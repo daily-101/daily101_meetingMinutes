@@ -1,20 +1,36 @@
-# 멜로디빈 회의록
+# 팀프로젝트 회의록:blue_heart:
 
 
 
-#### 프로젝트 일정
+#### 프로젝트 일정 :date:
 
-* 프로젝트 작업 기간
+* **기관/과정명**
+  * 멀티캠퍼스 클라우드를 활용한 마이크로서비스아키텍처 전문가 과정
+
+* **프로젝트 작업 기간**
   * 2020년 09월 15일 화요일 ~ 2020년 12월 03일 목요일
-* 프로젝트 발표일
+* **프로젝트 발표일**
   * 2020년 12월 4일 금요일 
 
 
 
 #### 프로젝트 회의록 바로가기 List
 
-* 회의록1_0915~0928_(기획 및 화면구성)
-  1. [회의#1_0915/화](https://github.com/melody-Bean/melody-Bean-meetingMinutes/blob/master/%ED%9A%8C%EC%9D%98%EB%A1%9D1_0915~0928_(%EA%B8%B0%ED%9A%8D%20%EB%B0%8F%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1)/%ED%9A%8C%EC%9D%98%231_0915%ED%99%94.md)
-  2. [회의#2_0921/월](https://github.com/melody-Bean/melody-Bean-meetingMinutes/blob/master/%ED%9A%8C%EC%9D%98%EB%A1%9D1_0915~0928_(%EA%B8%B0%ED%9A%8D%20%EB%B0%8F%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1)/%ED%9A%8C%EC%9D%98%232.melodyBean_0921%EC%9B%94.md)
-  3. [회의#3_0924/목](https://github.com/melody-Bean/melody-Bean-meetingMinutes/blob/master/%ED%9A%8C%EC%9D%98%EB%A1%9D1_0915~0928_(%EA%B8%B0%ED%9A%8D%20%EB%B0%8F%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1)/%ED%9A%8C%EC%9D%98%233.melodyBean_0924%EB%AA%A9.md)
-  4. [회의#4_0928/월](https://github.com/melody-Bean/melody-Bean-meetingMinutes/blob/master/%ED%9A%8C%EC%9D%98%EB%A1%9D1_0915~0928_(%EA%B8%B0%ED%9A%8D%20%EB%B0%8F%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1)/%ED%9A%8C%EC%9D%98%234.melodyBean_0928%EC%9B%94.md)
+* **회의록1_0915~1009_"멜로디빈 기획 및 화면구성"**
+  1. [회의#1_0915/화 - 첫회의](https://github.com/melody-Bean/melody-Bean-meetingMinutes/blob/master/%ED%9A%8C%EC%9D%98%EB%A1%9D1_0915~0928_(%EA%B8%B0%ED%9A%8D%20%EB%B0%8F%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1)/%ED%9A%8C%EC%9D%98%231_0915%ED%99%94.md)
+  2. [회의#2_0921/월 - 아이디어회의](https://github.com/melody-Bean/melody-Bean-meetingMinutes/blob/master/%ED%9A%8C%EC%9D%98%EB%A1%9D1_0915~0928_(%EA%B8%B0%ED%9A%8D%20%EB%B0%8F%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1)/%ED%9A%8C%EC%9D%98%232.melodyBean_0921%EC%9B%94.md)
+  3. [회의#3_0924/목 - 아이디어 피드백](https://github.com/melody-Bean/melody-Bean-meetingMinutes/blob/master/%ED%9A%8C%EC%9D%98%EB%A1%9D1_0915~0928_(%EA%B8%B0%ED%9A%8D%20%EB%B0%8F%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1)/%ED%9A%8C%EC%9D%98%233.melodyBean_0924%EB%AA%A9.md)   
+  4. [회의#4_0928/월 - 랭킹서비스 시장조사](https://github.com/melody-Bean/melody-Bean-meetingMinutes/blob/master/%ED%9A%8C%EC%9D%98%EB%A1%9D1_0915~0928_(%EA%B8%B0%ED%9A%8D%20%EB%B0%8F%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1)/%ED%9A%8C%EC%9D%98%234.melodyBean_0928%EC%9B%94.md)
+  5. [회의#5_1002/금 - Front제작, 기획발표 준비]()
+  6. [회의#6_1006/화 - 기획발표준비]()
+  7. [회의#7_1009/금 - 기획발표 피드백 회의]()
+
+
+
+* **회의록2_1011~1024_"다시 태어난 팀'사계' :cherry_blossom::palm_tree::fallen_leaf::snowman:"**
+  1. [회의#8_1011/일 - 아이스브레이킹&새 주제 논의]()
+  2. [회의#9_1013/화 - 새 아이디어 확정 'daily 101']()  
+  3. [회의#10_1014/수 - daily101 기획안 작성1]()
+  4. [회의#11 1015/목 - daily101 기획안 작성2]()
+  5. [회의#12 1018/일 - daily101 WBS, UI 제작]()
+
