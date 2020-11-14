@@ -27,10 +27,10 @@
 
 
 
-* **회의록2_1011~1024_"다시 태어난 팀'사계' :cherry_blossom::palm_tree::fallen_leaf::snowman:"**
-  1. [회의#8_1011/일 - 아이스브레이킹&새 주제 논의]()
-  2. [회의#9_1013/화 - 새 아이디어 확정 'daily 101']()  
-  3. [회의#10_1014/수 - daily101 기획안 작성1]()
-  4. [회의#11 1015/목 - daily101 기획안 작성2]()
-  5. [회의#12 1018/일 - daily101 WBS, UI 제작]()
+* **회의록2_1011~1024_'뚝딱스' :cherry_blossom::palm_tree::fallen_leaf::snowman:"**
+  1. [회의#11 1027/화 - 오늘의 할 일](https://github.com/daily-101/daily101_meetingMinutes/blob/master/%ED%9A%8C%EC%9D%98%EB%A1%9D2_1011~1024_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%8B%9C%EC%A6%8C2-%ED%8C%80'%EC%82%AC%EA%B3%84'/%ED%9A%8C%EC%9D%98%231.daily101_1027%ED%99%94.md)
+  2. [회의#12 1031/토 - 멘토링 기록](https://github.com/daily-101/daily101_meetingMinutes/blob/master/%ED%9A%8C%EC%9D%98%EB%A1%9D2_1011~1024_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%8B%9C%EC%A6%8C2-%ED%8C%80'%EC%82%AC%EA%B3%84'/%ED%9A%8C%EC%9D%98%232.daily101_1031%ED%86%A0.md)
+  3. [회의#13 1104/금 - 오늘의 할 일](https://github.com/daily-101/daily101_meetingMinutes/blob/master/%ED%9A%8C%EC%9D%98%EB%A1%9D2_1011~1024_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%8B%9C%EC%A6%8C2-%ED%8C%80'%EC%82%AC%EA%B3%84'/%ED%9A%8C%EC%9D%98%233.daily101_1104%EC%88%98.md)
+  4. [회의#14 1107/토 - 멘토링 기록](https://github.com/daily-101/daily101_meetingMinutes/blob/master/%ED%9A%8C%EC%9D%98%EB%A1%9D2_1011~1024_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%8B%9C%EC%A6%8C2-%ED%8C%80'%EC%82%AC%EA%B3%84'/%ED%9A%8C%EC%9D%98%234.daily101_1107%ED%86%A0.md)
+  
 
